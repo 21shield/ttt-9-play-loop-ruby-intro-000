@@ -43,3 +43,7 @@ def play (board)
     turn +=1
   end
 end
+
+def endGame
+  puts 'Winner Winner Chicken Dinner'
+end
