@@ -44,6 +44,6 @@ def play (board)
   end
 end
 
-def endGame
+def endGame(board)
   puts 'Winner Winner Chicken Dinner'
 end
